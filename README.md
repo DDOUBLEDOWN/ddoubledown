@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/vhp1ml.png" width="430" align="left" alt="nyan!">
+<img src="https://files.catbox.moe/vhp1ml.png" width="230" align="left" alt="nyan!">
 
 <br>
 <br>
@@ -12,4 +12,4 @@
     </tr>
   </table>
 
-<img src="https://files.catbox.moe/76z9gy.png" width="465" />
+<img src="https://files.catbox.moe/76z9gy.png" width="365" />
