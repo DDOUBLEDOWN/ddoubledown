@@ -12,4 +12,4 @@
     </tr>
   </table>
 
-<img src="https://files.catbox.moe/a3l9s1.png" width="470" />
+<img src="https://files.catbox.moe/a3l9s1.png" width="410" />
